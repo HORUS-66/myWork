@@ -1,6 +1,6 @@
 import socket,sys,threading
 
-HOST='127.0.0.1'
+HOST='192.168.1.89'
 PORT=46000
 
 
